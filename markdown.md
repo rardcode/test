@@ -7,3 +7,6 @@ codice da copiare
 ```
 
 In questo testo inserisco una `parola` evidenziata e una **parola** in grassetto.
+
+
+aggiunta da Gianlu
